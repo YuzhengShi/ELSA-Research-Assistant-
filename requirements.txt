@@ -1,0 +1,15 @@
+# Google Docs API
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.100.0
+
+# Vector store
+chromadb>=0.4.0
+
+# Ollama Python client
+ollama>=0.1.0
+
+# Web UI
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
